@@ -23,6 +23,7 @@ idna==3.7
 jsonpatch==1.33
 jsonpointer==2.4
 langchain-community==0.0.32
+langchain
 langchain-core==0.1.42
 langsmith==0.1.45
 lxml==5.2.1
